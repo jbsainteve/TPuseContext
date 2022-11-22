@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.monospace {
+  font-family: monospace;
+  font-size: 1.5rem;
+}
